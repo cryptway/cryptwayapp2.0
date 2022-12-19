@@ -67,7 +67,7 @@ className=" "
 
    
       
-      <p className="font-poppins font-normal text-white text-lg text-center mt-10"> {Address(currentAccount)}</p> 
+      <p className="font-poppins font-normal text-white text-sm sm:text-lg text-center mt-10"> {Address(currentAccount)}</p> 
    
       
     </div>
