@@ -19,7 +19,7 @@ const Navbar = () => {
   
   return ( 
 
-    <nav className="w-full justify-between md:py-6 md:px-14 py-12 px-4">
+    <nav className="w-full justify-between md:py-6 md:px-14 py-6 px-4">
 
 
 <header class="flex items-center px-2 py-2 border-b-1 "><div class="flex items-center flex-grow basis-0"> 
