@@ -27,7 +27,7 @@ level={"H"}
 className="w-56 h-56 object-contain  	mb-5"
 />    
       
-      <p className="font-poppins font-normal text-white text-lg text-center mt-10"> {Address(currentAccount)}</p> 
+      <p className="font-poppins font-normal text-white sm:text-lg text-xs	text-center mt-10"> {Address(currentAccount)}</p> 
    
       
     </div>
